@@ -2,6 +2,8 @@ if (process.env.NODE_ENV !== "production") {
   require("dotenv").config();
 }
 
+//git test 17.11.2022
+
 const express = require("express");
 const path = require("path");
 const mongoose = require("mongoose");
