@@ -30,11 +30,11 @@ const seedDb = async () => {
       location: `${cities[random1000].city}, ${cities[random1000].state}`,
       images: [
         {
-          url: "https://res.cloudinary.com/dhlvzthux/image/upload/v1667590777/YelpCamp/ahlk0pibvruzviojy8ng.jpg",
+          url: "https://res.cloudinary.com/dhlvzthux/image/upload/v1667590777/YelpCamp/xswbrbxsemcpnb2pagcv.jpg",
           filename: "YelpCamp/ahlk0pibvruzviojy8ng",
         },
         {
-          url: "https://res.cloudinary.com/dhlvzthux/image/upload/v1667590777/YelpCamp/qg9vnrdcffwagqbpyxfz.jpg",
+          url: "https://res.cloudinary.com/dhlvzthux/image/upload/v1667590777/YelpCamp/f2afia3x9kpzryk7ycn7.jpg",
           filename: "YelpCamp/qg9vnrdcffwagqbpyxfz",
         },
       ],
